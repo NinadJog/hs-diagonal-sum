@@ -26,6 +26,7 @@ source-repository head
 library
   exposed-modules:
       Problems
+      Utilities
   other-modules:
       Paths_hs_diagonal_sum
   autogen-modules:
